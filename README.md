@@ -1,4 +1,4 @@
-# Flutter Random Words Generator
+# Flutter Random Name Generator
 
 ## Descripción
 Este es un generador de palabras aleatorias desarrollado en Flutter. Utiliza el paquete `english_words` para generar nombres aleatorios, ideal para proyectos como generadores de nombres de startups o para aprendizaje de Flutter.
